@@ -1,0 +1,8 @@
+flask
+flask-cors
+werkzeug
+wtforms
+flask_wtf
+opencv-python
+ultralytics
+playsound

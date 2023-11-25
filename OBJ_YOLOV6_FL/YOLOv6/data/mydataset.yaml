@@ -1,0 +1,5 @@
+train: ../train_data/images/train
+val: ../train_data/images/valid
+is_coco: False
+nc: 15
+names: ['T_shirt', 'camera', 'cap', 'car', 'cell phone', 'clock', 'headphone', 'jean', 'keyboard', 'laptop', 'mouse', 'pant_short', 'pillow', 'trouser', 'truck']
